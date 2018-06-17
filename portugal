@@ -1,0 +1,104 @@
+#EXTM3U
+
+EXTINF:-1,PT: AMC
+http://145.239.10.132:8001/live/steven/1234/17408.ts
+EXTINF:-1,PT: AXN
+http://145.239.10.132:8001/live/steven/1234/17407.ts
+EXTINF:-1,PT: AXN Black
+http://145.239.10.132:8001/live/steven/1234/17406.ts
+EXTINF:-1,PT: AXN White
+http://145.239.10.132:8001/live/steven/1234/17405.ts
+EXTINF:-1,PT: BENFICA TV 1
+http://145.239.10.132:8001/live/steven/1234/17382.ts
+EXTINF:-1,PT: Casa E Pesca
+http://145.239.10.132:8001/live/steven/1234/17390.ts
+EXTINF:-1,PT: CINEMUNDO
+http://145.239.10.132:8001/live/steven/1234/17411.ts
+EXTINF:-1,PT: CM TV
+http://145.239.10.132:8001/live/steven/1234/17420.ts
+EXTINF:-1,PT: Discovery Channel
+http://145.239.10.132:8001/live/steven/1234/17394.ts
+EXTINF:-1,PT: Disney Channel
+http://145.239.10.132:8001/live/steven/1234/17398.ts
+EXTINF:-1,PT: Disney Junior
+http://145.239.10.132:8001/live/steven/1234/17397.ts
+EXTINF:-1,PT: FOX
+http://145.239.10.132:8001/live/steven/1234/17417.ts
+EXTINF:-1,PT: FOX Comedy
+http://145.239.10.132:8001/live/steven/1234/17416.ts
+EXTINF:-1,PT: FOX Crime
+http://145.239.10.132:8001/live/steven/1234/17414.ts
+EXTINF:-1,PT: FOX Life
+http://145.239.10.132:8001/live/steven/1234/17415.ts
+EXTINF:-1,PT: FOX Movies
+http://145.239.10.132:8001/live/steven/1234/17413.ts
+EXTINF:-1,PT: HISTORIA
+http://145.239.10.132:8001/live/steven/1234/17392.ts
+EXTINF:-1,PT: Hollywood
+http://145.239.10.132:8001/live/steven/1234/17410.ts
+EXTINF:-1,PT: Jim Jam
+http://145.239.10.132:8001/live/steven/1234/17395.ts
+EXTINF:-1,PT: MOTORVISION
+http://145.239.10.132:8001/live/steven/1234/17391.ts
+EXTINF:-1,PT: MOV
+http://145.239.10.132:8001/live/steven/1234/17409.ts
+EXTINF:-1,PT: ODISSEIA
+http://145.239.10.132:8001/live/steven/1234/17393.ts
+EXTINF:-1,PT: RTP MADEIRA
+http://145.239.10.132:8001/live/steven/1234/17430.ts
+EXTINF:-1,PT: RTP1
+http://145.239.10.132:8001/live/steven/1234/17433.ts
+EXTINF:-1,PT: RTP2
+http://145.239.10.132:8001/live/steven/1234/17432.ts
+EXTINF:-1,PT: RTP3
+http://145.239.10.132:8001/live/steven/1234/17431.ts
+EXTINF:-1,PT: SIC
+http://145.239.10.132:8001/live/steven/1234/17426.ts
+EXTINF:-1,PT: SIC CARAS
+http://145.239.10.132:8001/live/steven/1234/17425.ts
+EXTINF:-1,PT: SIC Kids
+http://145.239.10.132:8001/live/steven/1234/17396.ts
+EXTINF:-1,PT: SIC MULHER
+http://145.239.10.132:8001/live/steven/1234/17424.ts
+EXTINF:-1,PT: SIC NOTICIAS
+http://145.239.10.132:8001/live/steven/1234/17422.ts
+EXTINF:-1,PT: SIC RADICAL
+http://145.239.10.132:8001/live/steven/1234/17423.ts
+EXTINF:-1,PT: SPORT TV
+http://145.239.10.132:8001/live/steven/1234/17384.ts
+EXTINF:-1,PT: SPORT TV 1
+http://145.239.10.132:8001/live/steven/1234/17389.ts
+EXTINF:-1,PT: SPORT TV 2
+http://145.239.10.132:8001/live/steven/1234/17388.ts
+EXTINF:-1,PT: SPORT TV 3
+http://145.239.10.132:8001/live/steven/1234/17387.ts
+EXTINF:-1,PT: SPORT TV 4
+http://145.239.10.132:8001/live/steven/1234/17386.ts
+EXTINF:-1,PT: SPORT TV 5
+http://145.239.10.132:8001/live/steven/1234/17385.ts
+EXTINF:-1,PT: Sporting TV
+http://145.239.10.132:8001/live/steven/1234/17383.ts
+EXTINF:-1,PT: Syfy
+http://145.239.10.132:8001/live/steven/1234/17412.ts
+EXTINF:-1,PT: TV GLOBO
+http://145.239.10.132:8001/live/steven/1234/17419.ts
+EXTINF:-1,PT: TV GLOBO PREMIUM
+http://145.239.10.132:8001/live/steven/1234/17418.ts
+EXTINF:-1,PT: TV SERIES
+http://145.239.10.132:8001/live/steven/1234/17404.ts
+EXTINF:-1,PT: TVCINE 1
+http://145.239.10.132:8001/live/steven/1234/17403.ts
+EXTINF:-1,PT: TVCINE 2
+http://145.239.10.132:8001/live/steven/1234/17402.ts
+EXTINF:-1,PT: TVCINE 3
+http://145.239.10.132:8001/live/steven/1234/17401.ts
+EXTINF:-1,PT: TVCINE 4
+http://145.239.10.132:8001/live/steven/1234/17400.ts
+EXTINF:-1,PT: TVI
+http://145.239.10.132:8001/live/steven/1234/17429.ts
+EXTINF:-1,PT: TVI 24
+http://145.239.10.132:8001/live/steven/1234/17421.ts
+EXTINF:-1,PT: TVI Ficcao
+http://145.239.10.132:8001/live/steven/1234/17428.ts
+EXTINF:-1,PT: TVI Reality
+http://145.239.10.132:8001/live/steven/1234/17427.ts
